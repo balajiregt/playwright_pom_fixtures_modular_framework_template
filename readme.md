@@ -14,7 +14,7 @@ Modularity is a core principle in this project, allowing for separation of conce
 
 ### API Calls, DateGeneration
 
-API calls can be invoked in the before hooks, so that the pre-requisite actions can be done and the tests are ready in the desired to state.
+API calls & DateGeneration functions can be invoked in the before hooks, so that the pre-requisite actions can be done and the tests are ready in the desired state to start.
 
 ### Fixtures
 
