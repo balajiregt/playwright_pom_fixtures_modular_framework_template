@@ -22,8 +22,9 @@ Fixtures in Playwright are used to provide a consistent test environment and reu
 
 By adhering to these principles and structures, the project aims to provide a robust and maintainable test suite for the web application.
 
-Note: The AUT was https://github.com/ruiyigan/books-manager-react-app:
+Note: The AUT was https://github.com/ruiyigan/books-manager-react-app: 
+
 Step1: npm run server
 Step2: npm start
-Step: npx playwright test [Playwright test runner can be started]
+Step3: npx playwright test [Playwright test runner can be started]
 
