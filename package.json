@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "security:staged": "node scripts/security-gate.mjs",
+    "security:hooks": "node scripts/install-security-hook.mjs",
+    "security:check": "python3 scripts/security_audit.py"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
