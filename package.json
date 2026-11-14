@@ -15,7 +15,7 @@
     "randomatic": "^3.1.1"
   },
   "devDependencies": {
-    "@playwright/test": "^1.42.1",
+    "@playwright/test": "^1.65.0",
     "@types/node": "^26.6.5",
     "playwright": "^1.42.1"
   }
